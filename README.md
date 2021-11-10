@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I am [Marco](https://github.com/m9rco) 🐱 ![](https://views.whatilearened.today/views/github/m9rco/m9rco.svg)
+### Hi there 👋, I am [Marco](https://github.com/m9rco) 🐱 
 
   A coder who is passionate about web technologies and open source
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 * 🔭 I’m currently working at [Tencent](https://www.tencent.com/)
 
-* 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher`
+* 🌱 I’m currently using `GoLang` `Python` <del>`java`</del>  <del>`PHP`</del> `k8s/rancher`
 
 * ✈️ Open to Remote Job Opportunities 🍻
 
