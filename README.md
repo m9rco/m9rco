@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 * ✈️ Open to Remote Job Opportunities 🍻
 
-* 👀 Feel free to contact me via dc -e 2757481562034885839008032255775211341885320301718910496010P`
+* 👀 Feel free to contact me via `dc -e 2757481562034885839008032255775211341885320301718910496010P`
