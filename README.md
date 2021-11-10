@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/m9rco/m9rco/output/github-contribution-grid-snake.svg)
 
-* 🔭 I’m currently working at [Tencent](https://tencent.com/)
+* 🔭 I’m currently working at [Tencent](https://www.tencent.com/)
 
 * 🌱 I’m currently using `GoLang` `Python` <del>`java`</del> `k8s/rancher`
 
