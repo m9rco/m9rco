@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 * ⚡ Fun fact: ...
 -->
 
-### m9rco 🐱 ![](https://views.whatilearened.today/views/github/m9rco/m9rco.svg)
+### Hi there 👋, I am [Marco](https://github.com/m9rco) 🐱 ![](https://views.whatilearened.today/views/github/m9rco/m9rco.svg)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=m9rco&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)
