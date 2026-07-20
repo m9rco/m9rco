@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=m9rco&show_icons=true&line_height=21&theme=vue&hide_border=true)
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=m9rco&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/m9rco/m9rco/output/github-contribution-grid-snake.svg)
 
 * 🔭 I’m currently working at [Tencent](https://www.tencent.com/)
