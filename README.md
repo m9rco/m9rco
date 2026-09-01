@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 * 🔭 I’m currently working at [Tencent](https://www.tencent.com/)
 
-* 🌱 I’m currently using `C/C++` `Rust` `GoLang` `Python` <del>`java`</del>  <del>`PHP`</del> `k8s/rancher`
+* 🌱 I’m currently using `C/C++` `Rust` `GoLang` `Python` <del>`Java`</del>  <del>`PHP`</del> `K8s/Rancher`
 
 * ✈️ Open to Remote Job Opportunities 🍻
 
